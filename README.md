@@ -1,2 +1,2 @@
 # hello-world
-repo criado como exercicio da cubos
+repo criado como exercicio da aula de setup 
